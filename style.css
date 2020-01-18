@@ -1,3 +1,8 @@
+body {
+  background: #555;
+}
+
+
 .box {
     min-height: 500px;
     padding: 5px;
